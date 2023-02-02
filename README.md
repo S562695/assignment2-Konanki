@@ -3,6 +3,8 @@
 Since childhood we used to play this sport often in our colony having lot of fun with all the people joining together. From then, I love this sport so much.
 **sport**   **fun**
 
+---
+
 Badminton
 # Ordered list of team players
 Team India
@@ -18,5 +20,17 @@ Team India
  * Timothy Lam
 
 ---
+
+# About Countries
+I would like recommond the following countries which I like most are America, Australia, Canada, France.
+|   Country  |   Reason    |   Days Spent  |
+| ---------- | ----------  | --------------|
+|  America   | Interesting |   10          |
+|  Australia | places      |   40          |
+|  Canada    | climate     |   30          |
+|  France    | Architecture|   20          |
+
+
+
 
 [If you want to know more about me click here](AboutMe.md)
