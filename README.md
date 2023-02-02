@@ -30,6 +30,10 @@ I would like recommond the following countries which I like most are America, Au
 |  Canada    | climate     |   30          |
 |  France    | Architecture|   20          |
 
+---
+# Funny Pithy Quotes
+> You have to be odd to be number one - *Dr.Seus*
+> A person with a sharp tongue will eventually cut themselves - *J.Robson Koenig*
 
 
 
