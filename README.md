@@ -37,6 +37,27 @@ I would like recommond the following countries which I like most are America, Au
 
 > A person with a sharp tongue will eventually cut themselves - *J.Robson Koenig*
 
+---
+# Code Fencing
+> How to strip HTML from a string in JavaScript?
+
+Stripping HTML in JavaScript <https://www.programmingcube.com/how-to-strip-html-from-a-string-in-javascript/>
+
+~~~
+
+const originalString = `
+  <div>
+    <p>Hey that's <span>somthing</span></p>
+  </div>
+`;
+
+const strippedString = originalString.replace(/(<([^>]+)>)/gi, "");
+
+console.log(strippedString);
+
+~~~
+
+Link for CodeSnippet <https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/>
 
 
 [If you want to know more about me click here](AboutMe.md)
