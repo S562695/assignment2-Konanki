@@ -18,3 +18,5 @@ Team India
  * Timothy Lam
 
 ---
+
+[If you want to know more about me click here](AboutMe.md)
